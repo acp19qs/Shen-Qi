@@ -1,0 +1,5 @@
+analysisCode/target
+analysisCode/.idea
+subjectCode/gs-core/target
+.DS_Store
+.ipynb_checkpoints
